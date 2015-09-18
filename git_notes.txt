@@ -1,0 +1,2 @@
+//So far I have been learning a ton.
+//I have learned how to create paths. I have learned how to create directories. I have learned that git takes snapshots of projects that are being worked on. You can see what was done and where it was done. Git is something that you would use as part of a team working on a project. I've learned about the commit proccess of adding files.
